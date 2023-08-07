@@ -7,18 +7,17 @@ def duplicate_count(text):
 print(duplicate_count("abcde"))
 <<<<<<< HEAD
 print(duplicate_count("aabbcde"))
-<<<<<<< HEAD
-=======
-#print(duplicate_count("aabbcde"))
->>>>>>> 982fbc7 (comment test 7)
-#print(duplicate_count("aabBcde"))
-#print(duplicate_count("indivisibility"))
-#print(duplicate_count("Indivisibilities"))
-#print(duplicate_count("aA11"))
-=======
 print(duplicate_count("aabBcde"))
 print(duplicate_count("indivisibility"))
 print(duplicate_count("Indivisibilities"))
 print(duplicate_count("aA11"))
+<<<<<<< HEAD
+=======
+#print(duplicate_count("aabBcde"))
+#print(duplicate_count("indivisibility"))
+#print(duplicate_count("Indivisibilities"))
+#print(duplicate_count("aA11"))
+>>>>>>> 6ecfc81 (fixed merge conflicts)
+=======
 >>>>>>> 057cfc4 (comment test 1)
 #print(duplicate_count("ABBA"))

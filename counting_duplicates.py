@@ -6,8 +6,8 @@ def duplicate_count(text):
 
 print(duplicate_count("abcde"))
 print(duplicate_count("aabbcde"))
-print(duplicate_count("aabBcde"))
-print(duplicate_count("indivisibility"))
-print(duplicate_count("Indivisibilities"))
-print(duplicate_count("aA11"))
+#print(duplicate_count("aabBcde"))
+#print(duplicate_count("indivisibility"))
+#print(duplicate_count("Indivisibilities"))
+#print(duplicate_count("aA11"))
 #print(duplicate_count("ABBA"))
